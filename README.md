@@ -48,8 +48,6 @@ pip install -r requirements.txt
 ```
 
 #### Step4 確認安裝完成，開啟 Jupyter Notebook
-確認安裝完成，開啟 Jupyter Notebook：
-
 ```shell
 jupyter notebook
 ```
