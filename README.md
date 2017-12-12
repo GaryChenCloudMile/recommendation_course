@@ -66,7 +66,7 @@ lab_reco_model_mf_dnn.ipynb             Recommendation Matrix Factorization加�
 ```
 tutorial_linear.ipynb                   Linear regression example
 tutorial_dnn_practice.ipynb             
-reco_memory_base                        Collaborative filtering演算法
+reco_memory_base.ipynb                  Collaborative filtering演算法
 reco_model_mf.ipynb                     
 reco_model_mf_with_history.ipynb
 reco_model_mf_dnn.ipynb         
