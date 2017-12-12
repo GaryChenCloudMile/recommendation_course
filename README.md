@@ -55,6 +55,7 @@ Jupyter Notebook 會開啟一個伺服器，通常網址是：[http://localhost:
 
 
 ## Lab請開啟檔名lab開頭的notebook
+```
 lab_tutorial_x_square.ipynb             一元二次多項式regression example
 lab_tutorial_dnn_practice.ipynb         DNN model training練習
 lab_reco_model_mf.ipynb                 Recommendation Matrix Factorization基本款
@@ -68,3 +69,4 @@ reco_memory_base                        Collabortive filtering演算法
 reco_model_mf.ipynb                     
 reco_model_mf_with_history.ipynb
 reco_model_mf_dnn.ipynb         
+```
