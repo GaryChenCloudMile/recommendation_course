@@ -27,9 +27,13 @@ conda create -n {env_name} python=3.5
 ```
 {env_name}輸入自己取的名字
 
-啟動虛擬環境：
+啟動虛擬環境(Windows)：
 ```shell
 activate {env_name}
+```
+啟動虛擬環境(Mac, Linux)：
+```shell
+source activate {env_name}
 ```
 
 #### Step3 Git Clone專案
