@@ -15,14 +15,13 @@ Python Version: 3.5
 <br/>
 
 ## 本機使用安裝簡易教學
+
 ### 使用Anaconda
 #### Step1 下載Anaconda
-
 [Anaconda 官方文件 Install Tutorial](https://conda.io/docs/user-guide/install/windows.html)
 
 #### Step2 Conda virtual env 安裝與使用
 創建虛擬環境，打開終端機（Terminal），輸入：
-
 ```shell
 conda create -n {env_name} python=3.5
 ```
@@ -61,11 +60,13 @@ lab_tutorial_dnn_practice.ipynb         DNN model training練習
 lab_reco_model_mf.ipynb                 Recommendation Matrix Factorization基本款
 lab_reco_model_mf_with_history.ipynb    Recommendation Matrix Factorization加入user interaction
 lab_reco_model_mf_dnn.ipynb             Recommendation Matrix Factorization加入user interaction and item metadata
+```
 
 ## 檔名非lab開頭的notebook
+```
 tutorial_linear.ipynb                   Linear regression example
-tutorial_dnn_practice.ipynb 
-reco_memory_base                        Collabortive filtering演算法
+tutorial_dnn_practice.ipynb             
+reco_memory_base                        Collaborative filtering演算法
 reco_model_mf.ipynb                     
 reco_model_mf_with_history.ipynb
 reco_model_mf_dnn.ipynb         
