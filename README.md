@@ -62,7 +62,7 @@ lab_reco_model_mf_with_history.ipynb    Recommendation Matrix Factorization加�
 lab_reco_model_mf_dnn.ipynb             Recommendation Matrix Factorization加入user interaction and item metadata
 ```
 
-## 檔名非lab開頭的notebook
+## 範例: 檔名非lab開頭的notebook
 ```
 tutorial_linear.ipynb                   Linear regression example
 tutorial_dnn_practice.ipynb             
