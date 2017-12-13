@@ -9,7 +9,7 @@ Python Version: 3.5
 1. NumPy, Scipy：矩陣運算函式庫
 2. Scikit-learn：機器學習函式庫
 3. Pandas：資料處理函式庫
-4. TensorFlow(1.3+): Deep Learning函式庫
+4. TensorFlow(1.4+): Deep Learning函式庫
 5. Jupyter Notebook：編譯器環境
 <br/>
 <br/>
