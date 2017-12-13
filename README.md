@@ -3,13 +3,17 @@
 ## 簡介
 預設使用GCP Goole Cloud Platform Datalab環境, 本機無須安裝任何套件, Datalab set up請參考 [GCP Datalab set up](https://docs.google.com/presentation/d/1ycHlObI_YyydrEiECdag_V_n1sXd8StQqrqdrBSoPI8/edit#slide=id.g2b481b6fdb_0_282)
 
+## Datalab Upgrade libs
+目前datalab tensorflow版本只支援到1.2.1, 請執行CMD.ipynb升級tensorflow以及scikit-learn套件如下圖
+![Alt text](./CMD.jpg)
+
 Python Version: 3.5
 會使用到的 Python 函式庫有：
 
 1. NumPy, Scipy：矩陣運算函式庫
 2. Scikit-learn：機器學習函式庫
 3. Pandas：資料處理函式庫
-4. TensorFlow(1.3+): Deep Learning函式庫
+4. TensorFlow(1.4+): Deep Learning函式庫
 5. Jupyter Notebook：編譯器環境
 <br/>
 <br/>
